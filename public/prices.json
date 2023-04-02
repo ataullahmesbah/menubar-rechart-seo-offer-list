@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Memberships",
+      "price": 50,
+      "features": ["Free Weights", "Cardio Equipment", "Group Fitness Classes", "Personal Training", "Locker Rooms"]
+    },
+    { 
+      "id": 2,
+      "name": "Premium memberships",
+      "price": 100,
+      "features": ["Indoor Cycling Studio", "Boxing Area", "TRX Training"]
+    },
+    {
+      "id": 3,
+      "name": "VIP Memberships",
+      "price": 200,
+      "features": ["Spinning Studio", "Functional Training Area", "Meditation Room", "Outdoor Running Track", "Jacuzzi"]
+    }
+  ]
+  
